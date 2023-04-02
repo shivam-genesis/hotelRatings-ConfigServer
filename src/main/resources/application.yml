@@ -11,3 +11,4 @@ spring:
         git:
           uri: https://github.com/shivam-genesis/hotel-ratings-config-files
           clone-on-start: true
+        default-label: main
